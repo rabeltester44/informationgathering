@@ -1,0 +1,2 @@
+# su.sh
+information gathering
